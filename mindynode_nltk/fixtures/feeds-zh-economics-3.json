@@ -1,0 +1,122 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 301,
+    "fields": {
+      "host_name": "华尔街日报",
+      "host_desc": "wallstreet cn",
+      "host_category": "zh_economics",
+      "host_homepage": "http://cn.wsj.com/gb",
+      "host_feed_url": "http://cn.wsj.com/gb/rss01.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 302,
+    "fields": {
+      "host_name": "华尔街见闻-经济",
+      "host_desc": "华尔街见闻-经济",
+      "host_category": "zh_economics",
+      "host_homepage": "https://wallstreetcn.com/news/economy",
+      "host_feed_url": "http://feed43.com/5886183548428856.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 303,
+    "fields": {
+      "host_name": "路透中国",
+      "host_desc": "路透中国",
+      "host_category": "china",
+      "host_homepage": "http://cn.reuters.com",
+      "host_feed_url": "http://cn.reuters.com/rssFeed/vbc_homepagetopnews/",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 304,
+    "fields": {
+      "host_name": "路透财经",
+      "host_desc": "路透财经",
+      "host_category": "china",
+      "host_homepage": "http://cn.reuters.com",
+      "host_feed_url": "http://cn.reuters.com/rssFeed/chinaNews/",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 305,
+    "fields": {
+      "host_name": "路透专栏",
+      "host_desc": "路透专栏",
+      "host_category": "china",
+      "host_homepage": "http://cn.reuters.com",
+      "host_feed_url": "http://cn.reuters.com/rssFeed/CNColumn/",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 306,
+    "fields": {
+      "host_name": "路透最新资讯",
+      "host_desc": "路透最新资讯",
+      "host_category": "china",
+      "host_homepage": "http://cn.reuters.com",
+      "host_feed_url": "http://cn.reuters.com/rssFeed/vbc_homepagetopnews/",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 307,
+    "fields": {
+      "host_name": "IBT中国",
+      "host_desc": "IBT中国",
+      "host_category": "china",
+      "host_homepage": "http://www.ibtimes.com.cn",
+      "host_feed_url": "http://www.ibtimes.com.cn/rss/articles/specialcat/economy.rss",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 308,
+    "fields": {
+      "host_name": "人民网财经",
+      "host_desc": "人民网财经",
+      "host_category": "china",
+      "host_homepage": "http://www.people.com.cn",
+      "host_feed_url": "http://www.people.com.cn/rss/finance.xml",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]

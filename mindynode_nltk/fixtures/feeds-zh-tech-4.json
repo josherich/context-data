@@ -1,0 +1,288 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 401,
+    "fields": {
+      "host_name": "华尔街日报科技",
+      "host_desc": "华尔街日报科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://cn.wsj.com/gb/tech.php",
+      "host_feed_url": "http://cn.wsj.com/gb/rsstech.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 402,
+    "fields": {
+      "host_name": "爱范儿",
+      "host_desc": "爱范儿",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.ifanr.com/",
+      "host_feed_url": "http://www.ifanr.com/feed",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 403,
+    "fields": {
+      "host_name": "钛媒体",
+      "host_desc": "钛媒体",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.tmtpost.com/",
+      "host_feed_url": "http://www.tmtpost.com/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 404,
+    "fields": {
+      "host_name": "雷锋网",
+      "host_desc": "雷锋网",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.leiphone.com",
+      "host_feed_url": "http://www.leiphone.com/feed",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 405,
+    "fields": {
+      "host_name": "品玩",
+      "host_desc": "品玩",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.pingwest.com",
+      "host_feed_url": "http://www.pingwest.com/feed/",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 406,
+    "fields": {
+      "host_name": "36kr",
+      "host_desc": "36kr",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.36kr.com",
+      "host_feed_url": "http://www.36kr.com/feed",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 407,
+    "fields": {
+      "host_name": "Solidot",
+      "host_desc": "Solidot",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.solidot.org",
+      "host_feed_url": "http://www.solidot.org/index.rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 408,
+    "fields": {
+      "host_name": "虎嗅网",
+      "host_desc": "虎嗅网",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.huxiu.com",
+      "host_feed_url": "http://www.huxiu.com/rss/0.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 409,
+    "fields": {
+      "host_name": "腾讯科技",
+      "host_desc": "腾讯科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://tech.qq.com",
+      "host_feed_url": "http://tech.qq.com/web/rss_web.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 410,
+    "fields": {
+      "host_name": "极客公园",
+      "host_desc": "极客公园",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.geekpark.net",
+      "host_feed_url": "http://www.geekpark.net/rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 411,
+    "fields": {
+      "host_name": "Engadget",
+      "host_desc": "Engadget",
+      "host_category": "zh_tech",
+      "host_homepage": "http://cn.engadget.com",
+      "host_feed_url": "http://cn.engadget.com/topics/science/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 412,
+    "fields": {
+      "host_name": "新浪科技",
+      "host_desc": "新浪科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://tech.sina.com.cn",
+      "host_feed_url": "http://rss.sina.com.cn/tech/rollnews.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 413,
+    "fields": {
+      "host_name": "cnBeta",
+      "host_desc": "cnBeta",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.cnbeta.com",
+      "host_feed_url": "http://rssdiy.com/u/2/cnbeta_lite.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 414,
+    "fields": {
+      "host_name": "TechCrunch中国",
+      "host_desc": "TechCrunch中国",
+      "host_category": "zh_tech",
+      "host_homepage": "http://techcrunch.cn",
+      "host_feed_url": "http://techcrunch.cn/feed/",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 415,
+    "fields": {
+      "host_name": "路透科技",
+      "host_desc": "路透科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://cn.reuters.com/life/technology",
+      "host_feed_url": "http://cn.reuters.com/rssFeed/CNTechNews/",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 416,
+    "fields": {
+      "host_name": "百度新闻互联网",
+      "host_desc": "百度新闻互联网",
+      "host_category": "zh_tech",
+      "host_homepage": "http://news.baidu.com/internet",
+      "host_feed_url": "http://news.baidu.com/n?cmd=1&class=internet&tn=rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 417,
+    "fields": {
+      "host_name": "百度新闻科技",
+      "host_desc": "百度新闻科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://news.baidu.com/tech",
+      "host_feed_url": "http://news.baidu.com/n?cmd=1&class=technnews&tn=rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 418,
+    "fields": {
+      "host_name": "IBT中文",
+      "host_desc": "IBT中文",
+      "host_category": "zh_tech",
+      "host_homepage": "http://www.ibtimes.com.cn/tech",
+      "host_feed_url": "http://www.ibtimes.com.cn/rss/articles/specialcat/tech-internet.rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 419,
+    "fields": {
+      "host_name": "动点科技",
+      "host_desc": "动点科技",
+      "host_category": "zh_tech",
+      "host_homepage": "http://cn.technode.com",
+      "host_feed_url": "http://cn.technode.com/feed/",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]
+

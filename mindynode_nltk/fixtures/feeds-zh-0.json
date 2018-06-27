@@ -1,0 +1,272 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1,
+    "fields": {
+      "host_name": "澎湃",
+      "host_desc": "澎湃新闻网，隶属于上海东方报业有限公司，是专注时政与思想的媒体开放平台。以最活跃的时政新闻与最冷静的思想分析为两翼，生产并聚合中文互联网世界最优质的时政思想类内容。",
+      "host_category": "china",
+      "host_homepage": "http://www.thepaper.cn/",
+      "host_feed_url": "https://feedx.net/rss/thepaper.xml",
+      "host_icon": "http://file.thepaper.cn/www/v3/img/logo116.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 2,
+    "fields": {
+      "host_name": "QQ新闻国内",
+      "host_desc": "腾讯新闻，事实派",
+      "host_category": "china",
+      "host_homepage": "http://news.qq.com/china_index.shtml",
+      "host_feed_url": "http://news.qq.com/newsgn/rss_newsgn.xml",
+      "host_icon": "http://mat1.gtimg.com/news/news2013/LOGO.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 3,
+    "fields": {
+      "host_name": "新京报",
+      "host_desc": "《新京报》(www.bjnews.com.cn)于2003的11月11日正式创刊，是由光明日报和南方日报两大报业集团联合主办的综合类大型城市日报，是中国首家获正式批准的跨地区联合办报试点，也是中国首家股份制结构的时政类报纸。",
+      "host_category": "china",
+      "host_homepage": "http://www.bjnews.com.cn",
+      "host_feed_url": "http://www.bjnews.com.cn/feed/",
+      "host_icon": "http://i.bjnews.com.cn/images/xjblogo.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 4,
+    "fields": {
+      "host_name": "纽约时报中文网",
+      "host_desc": "国际纵览",
+      "host_category": "china",
+      "host_homepage": "https://cn.nytimes.com",
+      "host_feed_url": "https://cn.nytimes.com/rss.html",
+      "host_icon": "https://cn.nytimes.com/img/nameplate@2x.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 5,
+    "fields": {
+      "host_name": "南方周末-社会",
+      "host_desc": "在这里，读懂中国",
+      "host_category": "china",
+      "host_homepage": "www.infzm.com",
+      "host_feed_url": "http://feed43.com/infzmsocio.xml",
+      "host_icon": "http://img.pconline.com.cn/images/upload/upc/tx/pcdlc/1612/11/c90/32134077_1481459797465.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 6,
+    "fields": {
+      "host_name": "FT中文网",
+      "host_desc": "FT中文网(http://www.FTChinese.com) 是英国《金融时报》集团旗下唯一的中文商业财经网站，旨在为中国商业菁英和决策者们提供每日不可或缺的商业财经新闻、深度分析以及评论。",
+      "host_category": "china",
+      "host_homepage": "http://www.ftchinese.com",
+      "host_feed_url": "http://www.ftchinese.com/rss/feed",
+      "host_icon": "http://static.ftchinese.com/img/friend-share-icon.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 7,
+    "fields": {
+      "host_name": "BBC中文",
+      "host_desc": "BBC中文",
+      "host_category": "china",
+      "host_homepage": "http://www.bbc.com/zhongwen/simp",
+      "host_feed_url": "http://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "host_icon": "http://www.bbc.co.uk/news/special/2015/newsspec_11063/chinese_1024x576.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 9,
+    "fields": {
+      "host_name": "端媒体",
+      "host_desc": "端媒体",
+      "host_category": "china",
+      "host_homepage": "https://theinitium.com",
+      "host_feed_url": "https://theinitium.com/newsfeed/",
+      "host_icon": "https://upload.wikimedia.org/wikipedia/zh/thumb/1/1d/The_initium_Logo.png/220px-The_initium_Logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_hk"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 10,
+    "fields": {
+      "host_name": "中国新闻网",
+      "host_desc": "中国新闻网",
+      "host_category": "china",
+      "host_homepage": "https://www.chinanews.com",
+      "host_feed_url": "http://www.chinanews.com/rss/importnews.xml",
+      "host_icon": "https://upload.wikimedia.org/wikipedia/zh/thumb/1/1d/The_initium_Logo.png/220px-The_initium_Logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 11,
+    "fields": {
+      "host_name": "联合早报",
+      "host_desc": "新加坡早报",
+      "host_category": "china",
+      "host_homepage": "http://www.zaobao.com.sg",
+      "host_feed_url": "http://www.zaobao.com.sg/znews/greater-china",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "raw",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 12,
+    "fields": {
+      "host_name": "新浪世界新闻",
+      "host_desc": "新浪世界新闻",
+      "host_category": "china",
+      "host_homepage": "http://www.sina.com.cn",
+      "host_feed_url": "http://rss.sina.com.cn/news/world/focus15.xml",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 13,
+    "fields": {
+      "host_name": "法广",
+      "host_desc": "法广",
+      "host_category": "china",
+      "host_homepage": "http://cn.rfi.fr/",
+      "host_feed_url": "https://feedx.net/rss/rfi.xml",
+      "host_icon": "http://a2.att.hudong.com/34/57/20300000164151143584570000104_s.jpg",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 14,
+    "fields": {
+      "host_name": "百度新闻",
+      "host_desc": "百度新闻",
+      "host_category": "china",
+      "host_homepage": "http://news.baidu.com/",
+      "host_feed_url": "http://news.baidu.com/n?cmd=1&class=civilnews&tn=rss",
+      "host_icon": "http://box.bdimg.com/static/fisp_static/common/img/searchbox/logo_news_276_88_1f9876a.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 15,
+    "fields": {
+      "host_name": "财新网",
+      "host_desc": "财新网",
+      "host_category": "china",
+      "host_homepage": "http://international.caixin.com/",
+      "host_feed_url": "http://international.caixin.com/chinatown/rss/100300168.xml",
+      "host_icon": "http://file.caixin.com/webchannel/all/img/logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 16,
+    "fields": {
+      "host_name": "日经中文",
+      "host_desc": "日经中文",
+      "host_category": "china",
+      "host_homepage": "http://cn.nikkei.com",
+      "host_feed_url": "http://cn.nikkei.com/rss.html",
+      "host_icon": "http://cn.nikkei.com/templates/nikkeisite/common/images/newlogo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 17,
+    "fields": {
+      "host_name": "界面新闻",
+      "host_desc": "界面新闻",
+      "host_category": "china",
+      "host_homepage": "http://www.jiemian.com/",
+      "host_feed_url": "https://a.jiemian.com/index.php?m=article&a=rss",
+      "host_icon": "http://img.jiemian.com/101/original/20150608/143374605361805600.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 18,
+    "fields": {
+      "host_name": "韩联社",
+      "host_desc": "韩联社",
+      "host_category": "china",
+      "host_homepage": "http://chinese.yonhapnews.co.kr/allheadlines/0200000001.html",
+      "host_feed_url": "http://chinese.yonhapnews.co.kr/RSS/recent.xml",
+      "host_icon": "http://img.jiemian.com/101/original/20150608/143374605361805600.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 19,
+    "fields": {
+      "host_name": "德国之声",
+      "host_desc": "德国之声",
+      "host_category": "china",
+      "host_homepage": "http://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058?&zhongwen=simp",
+      "host_feed_url": "http://partner.dw.com/rdf/rss-chi-all",
+      "host_icon": "http://img.jiemian.com/101/original/20150608/143374605361805600.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]

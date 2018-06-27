@@ -1,0 +1,62 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 701,
+    "fields": {
+      "host_name": "人民网体育",
+      "host_desc": "人民网体育",
+      "host_category": "zh_sports",
+      "host_homepage": "http://sports.people.com.cn/",
+      "host_feed_url": "http://www.people.com.cn/rss/sports.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 702,
+    "fields": {
+      "host_name": "新浪国际足球",
+      "host_desc": "新浪国际足球",
+      "host_category": "zh_sports",
+      "host_homepage": "http://sports.sina.com.cn/global/",
+      "host_feed_url": "http://rss.sina.com.cn/sports/global/focus.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 703,
+    "fields": {
+      "host_name": "虎扑NBA",
+      "host_desc": "虎扑NBA",
+      "host_category": "zh_sports",
+      "host_homepage": "http://nba.hupu.com",
+      "host_feed_url": "http://nba.hupu.com/news/news.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 704,
+    "fields": {
+      "host_name": "虎扑国际足球",
+      "host_desc": "虎扑国际足球",
+      "host_category": "zh_sports",
+      "host_homepage": "https://voice.hupu.com/soccer",
+      "host_feed_url": "https://voice.hupu.com/generated/voice/news_soccer.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 2001,
+    "fields": {
+      "host_name": "澎湃",
+      "host_desc": "澎湃新闻网，隶属于上海东方报业有限公司，是专注时政与思想的媒体开放平台。以最活跃的时政新闻与最冷静的思想分析为两翼，生产并聚合中文互联网世界最优质的时政思想类内容。",
+      "host_category": "bulletin",
+      "host_homepage": "http://www.thepaper.cn/",
+      "host_feed_url": "https://feedx.net/rss/thepaper.xml",
+      "host_icon": "http://file.thepaper.cn/www/v3/img/logo116.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]

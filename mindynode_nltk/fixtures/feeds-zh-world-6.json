@@ -1,0 +1,64 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 601,
+    "fields": {
+      "host_name": "中国经济网",
+      "host_desc": "中国经济网",
+      "host_category": "zh_world",
+      "host_homepage": "http://intl.ce.cn",
+      "host_feed_url": "http://intl.ce.cn/main/ywnew/index.shtml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 602,
+    "fields": {
+      "host_name": "环球网国际",
+      "host_desc": "环球网国际",
+      "host_category": "zh_world",
+      "host_homepage": "http://rss.huanqiu.com",
+      "host_feed_url": "http://rss.huanqiu.com/world/roll.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 603,
+    "fields": {
+      "host_name": "人民网国际",
+      "host_desc": "人民网国际",
+      "host_category": "zh_world",
+      "host_homepage": "http://www.people.com.cn",
+      "host_feed_url": "http://www.people.com.cn/rss/world.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 604,
+    "fields": {
+      "host_name": "腾讯国际",
+      "host_desc": "腾讯国际",
+      "host_category": "zh_world",
+      "host_homepage": "http://world.qq.com/world_index.htm",
+      "host_feed_url": "http://feedmaker.kindle4rss.com/feeds/world.qq.com.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]
+
+// 

@@ -1,0 +1,203 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 201,
+    "fields": {
+      "host_name": "New York Times",
+      "host_desc": "New York Times",
+      "host_category": "en_general",
+      "host_homepage": "https://www.nytimes.com",
+      "host_feed_url": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 202,
+    "fields": {
+      "host_name": "The Guardian",
+      "host_desc": "The Guardian",
+      "host_category": "en_general",
+      "host_homepage": "https://www.theguardian.com/us",
+      "host_feed_url": "https://www.theguardian.com/us/rss",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 203,
+    "fields": {
+      "host_name": "Quartz",
+      "host_desc": "Quartz",
+      "host_category": "en_general",
+      "host_homepage": "https://qz.com",
+      "host_feed_url": "https://qz.com/latest/feed/",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 204,
+    "fields": {
+      "host_name": "VOX",
+      "host_desc": "VOX",
+      "host_category": "en_general",
+      "host_homepage": "https://www.vox.com",
+      "host_feed_url": "https://www.vox.com/rss/index.xml",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 205,
+    "fields": {
+      "host_name": "CNN World",
+      "host_desc": "CNN World",
+      "host_category": "en_general",
+      "host_homepage": "http://www.cnn.com/",
+      "host_feed_url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 206,
+    "fields": {
+      "host_name": "NPR",
+      "host_desc": "NPR",
+      "host_category": "en_general",
+      "host_homepage": "http://www.npr.org/",
+      "host_feed_url": "http://www.npr.org/rss/rss.php?id=1001",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 207,
+    "fields": {
+      "host_name": "BBC World",
+      "host_desc": "BBC World",
+      "host_category": "en_general",
+      "host_homepage": "http://www.bbc.com/news/world",
+      "host_feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 208,
+    "fields": {
+      "host_name": "AP",
+      "host_desc": "AP",
+      "host_category": "en_general",
+      "host_homepage": "https://www.apnews.com/",
+      "host_feed_url": "http://hosted.ap.org/lineups/TOPHEADS.rss?SITE=AP&SECTION=HOME",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 209,
+    "fields": {
+      "host_name": "Reuters",
+      "host_desc": "Reuters",
+      "host_category": "en_general",
+      "host_homepage": "http://www.reuters.com/",
+      "host_feed_url": "http://feeds.reuters.com/reuters/topNews",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 210,
+    "fields": {
+      "host_name": "ABC News",
+      "host_desc": "ABC News",
+      "host_category": "en_general",
+      "host_homepage": "http://abcnews.go.com/",
+      "host_feed_url": "http://abcnews.go.com/abcnews/worldnewsheadlines",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 211,
+    "fields": {
+      "host_name": "Washington Post",
+      "host_desc": "Washington Post",
+      "host_category": "en_general",
+      "host_homepage": "http://www.washingtonpost.com/",
+      "host_feed_url": "http://feeds.washingtonpost.com/rss/world",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 212,
+    "fields": {
+      "host_name": "Economist",
+      "host_desc": "Economist",
+      "host_category": "en_general",
+      "host_homepage": "http://www.economist.com",
+      "host_feed_url": "http://www.economist.com/sections/international/rss.xml",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 213,
+    "fields": {
+      "host_name": "WSJ",
+      "host_desc": "WSJ",
+      "host_category": "en_general",
+      "host_homepage": "http://www.wsj.com",
+      "host_feed_url": "http://www.wsj.com/xml/rss/3_7085.xml",
+      "host_icon": "https://guardian-registration.s3.amazonaws.com/networks/network/footer-logos/The_Guardian-logo.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  }
+]
+
+
+
+
+
+

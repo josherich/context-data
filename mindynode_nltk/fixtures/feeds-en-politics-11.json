@@ -1,0 +1,17 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1101,
+    "fields": {
+      "host_name": "The Hill Politics",
+      "host_desc": "The Hill Politics",
+      "host_category": "en_politics",
+      "host_homepage": "http://thehill.com/homenews/administration",
+      "host_feed_url": "http://thehill.com/rss/syndicator/19110",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  }
+]

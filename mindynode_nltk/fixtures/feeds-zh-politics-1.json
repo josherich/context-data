@@ -1,0 +1,32 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 101,
+    "fields": {
+      "host_name": "新华网",
+      "host_desc": "xinhuanet",
+      "host_category": "zh_politics",
+      "host_homepage": "https://www.xinhuanet.com/politics/",
+      "host_feed_url": "http://www.xinhuanet.com/politics/news_politics.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 102,
+    "fields": {
+      "host_name": "澎湃网",
+      "host_desc": "pengpai politics",
+      "host_category": "zh_politics",
+      "host_homepage": "http://www.thepaper.cn/list_25462",
+      "host_feed_url": "http://feed43.com/4353464418223608.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]

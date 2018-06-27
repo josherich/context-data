@@ -1,0 +1,74 @@
+[
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 1,
+    "fields": {
+      "stopword_name": "澎湃",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 2,
+    "fields": {
+      "stopword_name": "中国",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 3,
+    "fields": {
+      "stopword_name": "美国",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 4,
+    "fields": {
+      "stopword_name": "企业",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 5,
+    "fields": {
+      "stopword_name": "公司",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 6,
+    "fields": {
+      "stopword_name": "北京",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 7,
+    "fields": {
+      "stopword_name": "集团",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  },
+  {
+    "model": "mindynode_nltk.StopWord",
+    "pk": 8,
+    "fields": {
+      "stopword_name": "记者",
+      "stopword_category": "general",
+      "stopword_weight": 0
+    }
+  }
+]

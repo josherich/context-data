@@ -1,0 +1,107 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 901,
+    "fields": {
+      "host_name": "CNN Money",
+      "host_desc": "CNN Money",
+      "host_category": "en_business",
+      "host_homepage": "http://money.cnn.com",
+      "host_feed_url": "http://rss.cnn.com/rss/money_latest.rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 902,
+    "fields": {
+      "host_name": "ABC Business",
+      "host_desc": "ABC Business",
+      "host_category": "en_business",
+      "host_homepage": "https://abcnews.go.com/Business/",
+      "host_feed_url": "http://abcnews.go.com/abcnews/moneyheadlines",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 903,
+    "fields": {
+      "host_name": "The Washington Post Business",
+      "host_desc": "The Washington Post Business",
+      "host_category": "en_business",
+      "host_homepage": "https://www.washingtonpost.com/business/",
+      "host_feed_url": "http://feeds.washingtonpost.com/rss/business",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 904,
+    "fields": {
+      "host_name": "The Economist Business",
+      "host_desc": "The Economist Business",
+      "host_category": "en_business",
+      "host_homepage": "http://www.economist.com/sections/business-finance",
+      "host_feed_url": "http://www.economist.com/sections/business-finance/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 905,
+    "fields": {
+      "host_name": "WSJ Business",
+      "host_desc": "WSJ Business",
+      "host_category": "en_business",
+      "host_homepage": "https://www.wsj.com/news/business",
+      "host_feed_url": "http://www.wsj.com/xml/rss/3_7014.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 906,
+    "fields": {
+      "host_name": "The Hill Finance",
+      "host_desc": "The Hill Finance",
+      "host_category": "en_business",
+      "host_homepage": "http://thehill.com/policy/finance",
+      "host_feed_url": "http://rss.cnn.com/rss/money_latest.rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 907,
+    "fields": {
+      "host_name": "The Economist Economy",
+      "host_desc": "The Economist Economy",
+      "host_category": "en_business",
+      "host_homepage": "http://www.economist.com/sections/economics",
+      "host_feed_url": "http://www.economist.com/sections/economics/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  }
+]

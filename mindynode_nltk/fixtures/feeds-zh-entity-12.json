@@ -1,0 +1,59 @@
+国家统计局 最新发布 
+http://www.stats.gov.cn/tjsj/zxfb/rss.xml
+
+国家统计局 数据解读
+http://www.stats.gov.cn/tjsj/sjjd/rss.xml
+
+质量技术监督局
+http://www.shzj.gov.cn/module/rss/rssfeed.jsp?colid=339
+
+海淀法院 案件快报
+http://bjhdfy.chinacourt.org/public/more.php?LocationID=0202000000
+
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1201,
+    "fields": {
+      "host_name": "国家统计局-最新发布",
+      "host_desc": "国家统计局-最新发布",
+      "host_category": "zh_entity",
+      "host_homepage": "http://www.stats.gov.cn/tjsj/zxfb",
+      "host_feed_url": "http://www.stats.gov.cn/tjsj/zxfb/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1202,
+    "fields": {
+      "host_name": "国家统计局-数据解读",
+      "host_desc": "国家统计局-数据解读",
+      "host_category": "zh_entity",
+      "host_homepage": "http://www.stats.gov.cn/tjsj/sjjd",
+      "host_feed_url": "http://www.stats.gov.cn/tjsj/sjjd/rss.xml",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1203,
+    "fields": {
+      "host_name": "质量技术监督局",
+      "host_desc": "质量技术监督局",
+      "host_category": "zh_entity",
+      "host_homepage": "http://www.shzj.gov.cn",
+      "host_feed_url": "http://www.shzj.gov.cn/module/rss/rssfeed.jsp?colid=339",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh_gb"
+    }
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 501,
+    "fields": {
+      "host_name": "The Atlantic Tech",
+      "host_desc": "The Atlantic Tech",
+      "host_category": "en_tech",
+      "host_homepage": "https://www.theatlantic.com/technology/",
+      "host_feed_url": "http://www.theatlantic.com/feed/channel/technology/",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 502,
+    "fields": {
+      "host_name": "The Wired",
+      "host_desc": "The Wired",
+      "host_category": "en_tech",
+      "host_homepage": "https://www.wired.com",
+      "host_feed_url": "https://www.wired.com/feed/rss",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 503,
+    "fields": {
+      "host_name": "SlashDot",
+      "host_desc": "SlashDot",
+      "host_category": "en_tech",
+      "host_homepage": "http://slashdot.org/",
+      "host_feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 504,
+    "fields": {
+      "host_name": "CNN",
+      "host_desc": "CNN Tech",
+      "host_category": "en_tech",
+      "host_homepage": "http://rss.cnn.com/rss/edition_technology.rss",
+      "host_feed_url": "http://rss.cnn.com/rss/edition_technology.rss",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 505,
+    "fields": {
+      "host_name": "ABC News",
+      "host_desc": "ABC News Tech",
+      "host_category": "en_tech",
+      "host_homepage": "http://abcnews.go.com/abcnews/technologyheadlines",
+      "host_feed_url": "http://abcnews.go.com/abcnews/technologyheadlines",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 506,
+    "fields": {
+      "host_name": "Economist",
+      "host_desc": "Economist Tech",
+      "host_category": "en_tech",
+      "host_homepage": "http://www.economist.com/sections/science-technology/rss.xml",
+      "host_feed_url": "http://www.economist.com/sections/science-technology/rss.xml",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 507,
+    "fields": {
+      "host_name": "WSJ",
+      "host_desc": "WSJ Tech",
+      "host_category": "en_tech",
+      "host_homepage": "http://www.wsj.com/xml/rss/3_7455.xml",
+      "host_feed_url": "http://www.wsj.com/xml/rss/3_7455.xml",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 508,
+    "fields": {
+      "host_name": "The Hill",
+      "host_desc": "The Hill",
+      "host_category": "en_tech",
+      "host_homepage": "http://thehill.com/taxonomy/term/27/feed",
+      "host_feed_url": "http://thehill.com/taxonomy/term/27/feed",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 509,
+    "fields": {
+      "host_name": "Fast Company",
+      "host_desc": "Fast Company Technology",
+      "host_category": "en_tech",
+      "host_homepage": "https://www.fastcompany.com/technology",
+      "host_feed_url": "https://www.fastcompany.com/technology/rss",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  },
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 510,
+    "fields": {
+      "host_name": "MIT Technology Review",
+      "host_desc": "MIT Technology Review",
+      "host_category": "en_tech",
+      "host_homepage": "https://www.technologyreview.com/",
+      "host_feed_url": "https://www.technologyreview.com/stories.rss",
+      "host_icon": "https://a1.nyt.com/assets/homepage/20170731-135831/images/foundation/logos/nyt-logo-379x64.png",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  }
+]
+
+
+

@@ -1,0 +1,17 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 1001,
+    "fields": {
+      "host_name": "CNN Money",
+      "host_desc": "CNN Money",
+      "host_category": "en_life",
+      "host_homepage": "https://www.fastcompany.com/entertainment/",
+      "host_feed_url": "https://www.fastcompany.com/entertainment/rss",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "en"
+    }
+  }
+]

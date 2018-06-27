@@ -1,0 +1,17 @@
+[
+  {
+    "model": "mindynode_nltk.HOST",
+    "pk": 801,
+    "fields": {
+      "host_name": "FT中文网-生活时尚",
+      "host_desc": "FT中文网-生活时尚",
+      "host_category": "zh_life",
+      "host_homepage": "http://www.ftchinese.com/channel/lifestyle.html",
+      "host_feed_url": "http://www.ftchinese.com/rss/lifestyle",
+      "host_icon": "",
+      "host_corp_id": "",
+      "host_info": "default info",
+      "host_lang": "zh"
+    }
+  }
+]
